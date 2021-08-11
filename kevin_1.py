@@ -11,3 +11,11 @@ b = 1
 answer = a * b
 
 print(answer)
+
+
+# day two's work
+c = int(input())
+
+result = answer * c
+
+print(result)
